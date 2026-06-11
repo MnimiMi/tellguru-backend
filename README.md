@@ -1,6 +1,6 @@
 # 🔮 tell.guru — AI Tarot & Runes
 
-> Live: **[tell.guru](https://tell.guru)** · 🤖 **[@Tarotelling_bot](https://t.me/Tarotelling_bot)** · 🐈‍⬛ a [baldcat](https://baldcat.dev) product
+> Live: **[tell.guru](https://tell.guru)** · 🤖 **[@Tarotelling_bot](https://t.me/Tarotelling_bot)** · 🐈‍⬛ a [Mnimi&Baldcat](https://baldcat.dev) product
 >
 > AI-powered tarot & rune readings across a Telegram bot and a Vue web app, sharing one FastAPI backend.
 
